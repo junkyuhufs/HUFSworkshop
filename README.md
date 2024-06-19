@@ -1,20 +1,10 @@
 # 💞 AI 코딩 활용 영어수업 과제 만들기 
-+ Professor Junkyu Lee (HUFS)
-+ 2024년 6월 20일 17:00-18:00 
-
+### Professor Junkyu Lee (HUFS)
+### 2024년 6월 20일 17:00-18:00
   
 ### Sample
-
-+ [App Link](https://huggingface.co/spaces/ejun123/ReadAloud)
 + [App Link2](https://ejun123-ReadAloud.hf.space)
 + [QR code](https://mrkim21.github.io/appfolder/qrcode.html)
-+ [Emoji](https://gist.github.com/rxaviers/7360908)
-
-|a|b|c|
-|--|--|--|
-|1|2|3|
-
-![Image](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/tiger.jpg)
 
 ## special thanks to Dr. Miran Kim (GNU) and her students
 
@@ -134,3 +124,15 @@ In Echo Ridge, a mountain village enriched with legends of the "Guardian of the 
 |:--:|:--:|:--:|:--:|:--:|
 |<a href="https://huggingface.co/spaces/teatwots/wordcloud"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/1.png" alt="wordcloud"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolfinallistening"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/2.png" alt="tts_app"> </a>|<a href="https://huggingface.co/spaces/englissi/gstesolclozetest"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/3-1.png" alt="cloze_question_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/sequencing"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/4-1.png" alt="image_sequencing_app"> </a>|<a href="https://huggingface.co/spaces/teatwots/grammarchecking"> <img src="https://github.com/ShieldEdu/G4-finalproject/blob/main/Images/5-1.png" alt="writing_checker_app"> </a>|
 </div>
+
+### 기타
++ [App Link](https://huggingface.co/spaces/ejun123/ReadAloud)
++ [App Link2](https://ejun123-ReadAloud.hf.space)
++ [QR code](https://mrkim21.github.io/appfolder/qrcode.html)
++ [Emoji](https://gist.github.com/rxaviers/7360908)
+
+|a|b|c|
+|--|--|--|
+|1|2|3|
+
+![Image](https://github.com/junkyuhufs/HUFSworkshop/raw/main/data/tiger.jpg)
