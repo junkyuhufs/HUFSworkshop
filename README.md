@@ -1,8 +1,8 @@
-# HUFS workshop 💞
-abcde  
-fg
+# AI 코딩 활용 영어수업 과제 만들기 💞
++ Professor Junkyu Lee (HUFS)
++ 2024년 6월 20일 17:00-18:00 
 
-## Content
+  
 ### Schedule
 
 + Date
