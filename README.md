@@ -1,17 +1,14 @@
-# AI 코딩 활용 영어수업 과제 만들기 💞
+# 💞 AI 코딩 활용 영어수업 과제 만들기 
 + Professor Junkyu Lee (HUFS)
 + 2024년 6월 20일 17:00-18:00 
 
   
-### Schedule
+### Sample
 
-+ Date
-+ Meeting
 + [App Link](https://huggingface.co/spaces/ejun123/ReadAloud)
 + [App Link2](https://ejun123-ReadAloud.hf.space)
 + [QR code](https://mrkim21.github.io/appfolder/qrcode.html)
 + [Emoji](https://gist.github.com/rxaviers/7360908)
-
 
 |a|b|c|
 |--|--|--|
